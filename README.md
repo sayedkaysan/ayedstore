@@ -1,0 +1,2 @@
+# ayedstore
+index.html
